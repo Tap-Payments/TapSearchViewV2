@@ -6,7 +6,6 @@ target 'TapSearchViewV2' do
   use_frameworks!
 
   # Pods for TapSearchViewV2
-pod 'SwiftLint'
     pod 'TapAdditionsKitV2'
     pod 'TapNibViewV2'
 
