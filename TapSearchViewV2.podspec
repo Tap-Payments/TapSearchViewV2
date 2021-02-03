@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TapSearchViewV2"
-  spec.version      = "0.0.3"
+  spec.version      = "0.0.4"
   spec.summary      = "Customizable replacement of builtin UISearchBar"
 
   # This description is used to generate tags and improve search results.
@@ -105,7 +105,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.resource  = "icon.png"
-  spec.resources = "TapSearchViewV2/TapSearchViewV2/Resources/*.{xcassets,xib}"
+  # spec.resources = "TapSearchViewV2/TapSearchViewV2/Resources/*.{xcassets,xib}"
   spec.ios.resource_bundle   = { 'TapSearchViewResources' => 'TapSearchViewV2/TapSearchViewV2/Resources/*.{xcassets,xib}' }
 
   # spec.preserve_paths = "FilesToSave", "MoreFilesToSave"
