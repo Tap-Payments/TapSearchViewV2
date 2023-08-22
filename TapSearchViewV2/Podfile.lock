@@ -1,15 +1,15 @@
 PODS:
-  - TapAdditionsKitV2 (0.0.7):
+  - TapAdditionsKitV2 (0.0.17):
     - TapSwiftFixesV2
-  - TapNibViewV2 (0.0.2):
+  - TapNibViewV2 (0.0.3):
     - TapAdditionsKitV2
-  - TapSwiftFixesV2 (1.0.0):
-    - TapSwiftFixesV2/CoreGraphics (= 1.0.0)
-    - TapSwiftFixesV2/Exceptions (= 1.0.0)
-    - TapSwiftFixesV2/Threading (= 1.0.0)
-  - TapSwiftFixesV2/CoreGraphics (1.0.0)
-  - TapSwiftFixesV2/Exceptions (1.0.0)
-  - TapSwiftFixesV2/Threading (1.0.0)
+  - TapSwiftFixesV2 (1.0.3):
+    - TapSwiftFixesV2/CoreGraphics (= 1.0.3)
+    - TapSwiftFixesV2/Exceptions (= 1.0.3)
+    - TapSwiftFixesV2/Threading (= 1.0.3)
+  - TapSwiftFixesV2/CoreGraphics (1.0.3)
+  - TapSwiftFixesV2/Exceptions (1.0.3)
+  - TapSwiftFixesV2/Threading (1.0.3)
 
 DEPENDENCIES:
   - TapAdditionsKitV2
@@ -22,10 +22,10 @@ SPEC REPOS:
     - TapSwiftFixesV2
 
 SPEC CHECKSUMS:
-  TapAdditionsKitV2: 89a0ef85d6aa659ff3102b632914466924ce3ccb
-  TapNibViewV2: 814b18346837d9dab611a211a702b9b0b8369d07
-  TapSwiftFixesV2: a8623a7273c6790b9754ec7e272e96fce7d3a800
+  TapAdditionsKitV2: 0bb217062d4df1db86b339e7693283b293b0ccff
+  TapNibViewV2: a6df9bfe0a36dfa9039b8200f2921dd5f66874c5
+  TapSwiftFixesV2: ea726f752b6259d9e44624039fd6bad94b2a8633
 
-PODFILE CHECKSUM: bc209b84f29aaf374ee08929390ce5d20ec5273c
+PODFILE CHECKSUM: 72340c1019235d2db63ac0b6753c58da31b1b689
 
-COCOAPODS: 1.9.3
+COCOAPODS: 1.12.1

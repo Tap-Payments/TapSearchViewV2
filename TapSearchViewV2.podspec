@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "TapSearchViewV2"
-  spec.version      = "0.0.4"
+  spec.version      = "0.0.5"
   spec.summary      = "Customizable replacement of builtin UISearchBar"
 
   # This description is used to generate tags and improve search results.
@@ -63,7 +63,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.platform     = :ios
-  spec.platform     = :ios, "9.0"
+  spec.platform     = :ios, "11.0"
   spec.swift_versions = ['4.0', '4.2', '5.0']
 
   #  When using multiple platforms
