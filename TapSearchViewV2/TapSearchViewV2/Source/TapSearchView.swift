@@ -5,6 +5,7 @@
 //  Copyright © 2019 Tap Payments. All rights reserved.
 //
 
+import Foundation
 import CoreGraphics
 import func     TapAdditionsKitV2.tap_clamp
 import class    TapNibViewV2.TapNibView
